@@ -1,6 +1,6 @@
 # Literalnie Solver
 
-Celem projektu jest stworzenie narzędzia pomagającego na efektywne rozwiązywanie gry przeglądarkowej Literalnie.fun w trybie dla ekspertów.
+Literalnie solver to narzędzie pozwalające na efektywne rozwiązywanie gry przeglądarkowej Literalnie.fun w trybie dla ekspertów.
 
 Program oblicza prawdopodobieństwo pojawienia się każdej litery na każdej z 5 pozycji w słowie, następnie wybiera słowa, które najszybciej przybliża użytkownika do wygranej, wykorzystując jak najmniejszą liczbę prób.
 
@@ -15,13 +15,13 @@ Zasady gry:
 ### Zasady gry: 
 ![Logo](img/zasady.png)
 
-## Dane
+# Dane
 
 W programie wykorzystano listę przeznaczona do gier słownych dostępną pod linkiem https://sjp.pl/sl/growy/
 
 Licencje  [GPL 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html),
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-## Przykład działania programu
+# Przykład działania programu
 
 ### Hasło dnia: OBRUS
 
