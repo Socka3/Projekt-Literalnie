@@ -2,15 +2,13 @@
 
 Literalnie solver to narzędzie pozwalające na efektywne rozwiązywanie gry przeglądarkowej Literalnie.fun w trybie dla ekspertów.
 
-Program oblicza prawdopodobieństwo pojawienia się każdej litery na każdej z 5 pozycji w słowie, następnie wybiera słowa, które najszybciej przybliża użytkownika do wygranej, wykorzystując jak najmniejszą liczbę prób.
+Program oblicza prawdopodobieństwo pojawienia się każdej litery na każdej z 5 pozycji w słowie, następnie wybiera słowa, które najszybciej przybliżą użytkownika do wygranej, wykorzystując jak najmniejszą liczbę prób.
 
 # Literalnie 
 
 Literalnie to prosta gra słowna online, w której zadaniem gracza jest znalezienie pięcioliterowego słowa w sześciu próbach. Każdego dnia publikowana jest nowa zagadka.
 
 Gra jest darmowa, dostępna na urządzenia mobilne oraz pod linkiem https://literalnie.fun/
-
-Zasady gry: 
 
 ### Zasady gry: 
 ![Logo](img/zasady.png)
